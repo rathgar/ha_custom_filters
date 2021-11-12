@@ -26,6 +26,7 @@ inflate                     - zlib compress
 decode_base64_and_inflate   - decode base64 content and decompress it
 deflate_and_base64_encode   - compress content and base64 encode it
 decode_valetudo_map         - decode Valetudo(https://github.com/Hypfer/Valetudo) map
+ts_ago                      - humanised distance in time to now from given timestamp
 ```
 
 </p>
